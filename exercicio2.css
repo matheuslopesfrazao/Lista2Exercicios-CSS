@@ -1,0 +1,61 @@
+/* QUESTÃO 2 */
+
+/* Letra A) */
+.linka {
+	text-decoration: none;
+}
+
+/* Letra B) */
+.linkb {
+	text-decoration: overline;
+}
+.linkb:active {
+	text-decoration: line-through;
+	color: blue;
+}
+.linkb:visited {
+	text-decoration: underline;
+}
+
+/* Letra C) */
+.linkc {
+	color: orange;
+	text-decoration: none;
+}
+.linkc:hover {
+	color: green;
+	text-decoration: underline;
+}
+
+/* Letra D) */
+.linkd {
+	text-decoration: none;
+	border: solid blue;
+	background-color: black;
+	color: white;
+}
+.linkd:hover {
+	text-decoration: none;
+	border: dotted black;
+	background-color: white;
+	color: black;
+}
+
+/* Letra E) */
+.linke {
+	text-decoration: none;
+	color: red;
+}
+.linke:hover {
+	text-decoration: underline;
+}
+.linke:active {
+	text-decoration: none;
+	color: yellow;
+}
+.linke:visited {
+	text-decoration: none;
+	color: orange;
+	font-weight: bold;
+	font-style: italic;	
+}

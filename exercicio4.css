@@ -1,0 +1,50 @@
+nav ul {
+	width: 500px;
+	height: 50px;
+	border: #1f87d3 solid 2px;
+	text-align: center;
+}
+nav ul li{
+	list-style-type: none;
+	float: left;
+	font-size: 20px;
+	margin: 15px;
+}
+.li1 {
+	font-size: 27px;
+	color: #017fff;
+	margin: auto 0px;
+}
+
+.li2 {
+	color: #e92727;
+}
+.li2:hover {
+	text-decoration: overline;
+}
+
+.li3 {
+	color: #8ab212;
+}
+.li3:hover {
+	text-decoration: overline;
+}
+
+.li4 {
+	color: #ff9600;
+}
+.li4:hover {
+	text-decoration: overline;
+}
+
+.li5 {
+	color: #035fff;
+}
+.li5:hover {
+	text-decoration: overline;
+}
+
+.com {
+	margin: -18px 0 0 5px;
+}
+

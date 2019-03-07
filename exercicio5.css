@@ -1,0 +1,14 @@
+ul li {
+	color: red;
+	font-family: Verdana;
+	font-size: 12px;
+	border-bottom: dotted 1px red;
+	list-style: url("seta.jpg");
+}
+
+ul li:hover {
+	color:green;
+	border-bottom: dotted 1px green;
+	list-style: url("setaverde.jpg");
+}
+

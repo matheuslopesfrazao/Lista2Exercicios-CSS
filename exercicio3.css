@@ -1,0 +1,25 @@
+/* EXERCÍCIO 3 DE CSS */
+
+/* Imagem 1 */
+.img1 {
+	background: url("ruim.jpg") no-repeat center;
+	width: 241px;
+	height: 258px;
+}
+.img1:hover {
+	background: url("bom.jpg") no-repeat center;
+	width: 208px;
+	height: 257px;
+}
+
+/* Imagem 2 */
+.img2 {
+	background: url("serio.jpg") no-repeat center;
+	width: 334px;
+	height: 369px;
+}
+.img2:hover {
+	background: url("rindo.jpg") no-repeat center;
+	width: 325px;
+	height: 369px;
+}

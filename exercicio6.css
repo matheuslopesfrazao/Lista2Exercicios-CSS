@@ -1,0 +1,43 @@
+body {
+	width: 940px;
+	height: 1000px;
+	border: solid 3px black;
+	margin: 20px auto;
+}
+
+ul {
+	border: solid 1px black;
+	width: 40%;
+	height: 30px;
+}
+ul li {
+	list-style: none;
+	float: left;
+	margin-right: 40px;
+
+}
+.produto1 {
+ float: left;
+ /*border: solid 3px black;*/
+ height: 350px;
+ width: 49%;
+}
+.produto2 {
+	float: left;
+	/*border: solid 3px black;*/
+	height: 350px;
+ width: 49%;
+}
+.port {
+ float: left;
+ padding-top: 30px;
+ /*border: solid 3px black;*/
+ height: 250px;
+ width: 49%;
+}
+.form {
+	float: left;
+	/*border: solid 3px black;*/
+	height: 250px;
+ width: 49%;
+}
